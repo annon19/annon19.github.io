@@ -1,1 +1,2 @@
-# diel
+`npm install`
+`npm start`
